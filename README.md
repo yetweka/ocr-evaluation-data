@@ -25,6 +25,10 @@ Some subset of these documents were used for testing in the following publicatio
 > NAACL 2016
 
 
+If you find any mistakes in the gold transcriptions found in this repository, please let us know.  We would like for the transcriptions to be as accurate as possible.
+
+
+
 ### Running Ocular with the data
 
 To train and evaluate with this data, use the following options during font training:
